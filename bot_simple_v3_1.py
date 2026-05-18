@@ -29,7 +29,7 @@ INTERVALO_SEGUNDOS = int(os.environ.get('INTERVALO_SEGUNDOS', '180'))
 # =============================================================================
 
 TEXTOS_SIN_TURNOS = [
-    "sin disponibilidad",
+    "Sin disponibilidad",
     "sin turnos disponibles",
     "no hay turnos",
     "no disponible",
