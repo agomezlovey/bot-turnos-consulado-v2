@@ -37,7 +37,7 @@ URL_TURNOS = "https://turnos.argentina.gob.ar/turnos/seleccionTurno/3354/pais/37
 INTERVALO_SEGUNDOS = int(os.environ.get('INTERVALO_SEGUNDOS', '180'))
 
 # Mensaje clave que indica SIN turnos disponibles
-MENSAJE_SIN_TURNOS = "Sin turnos disponibles"
+MENSAJE_SIN_TURNOS = "Sin disponibilidad"
 
 # =============================================================================
 # CONFIGURACIÓN DE LOGS
